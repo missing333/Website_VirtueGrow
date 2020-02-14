@@ -66,8 +66,10 @@
         <strong>What it is NOT:</strong> Claiming that you are beneath others, or not worthy of something that you ARE worthy of. <br><br>
       </div>
       <div class="example">
-        <strong>Example of Humility:</strong><br>
+        <strong>Examples of Humility:</strong><br>
         <p>Mary saying 'Yes' to the Lord's will for her life.</p>
+        <p>Emporer Trajan who halted his cavalry en route to battle to aid a poor woman</p>
+        <p>David dancing wildly in front of the Ark</p>
       </div>
 
 
@@ -115,7 +117,11 @@
         <strong>What it is:</strong> A willingness to act on a desire to learn and grow. <br><br>
         <strong>What it is NOT:</strong> Hard work for the sake of material gain.
       </div>
-      <div class="example"></div>
+      <div class="example">
+        <strong>Examples of Diligence:</strong><br>
+        <p>Holy Zeal- Mary ran to the hill country of Juda to visit her cousin Elizabeth, upon hearing of her pregnancy.</p>
+        <p>Temporal Zeal- Commitment to praying daily morning & evening prayers</p>
+      </div>
 
       <div class="oppTitle">
         <h2>Opposite of Diligence <br>(Sloth)</h2>
@@ -155,7 +161,12 @@
         <strong>What it is:</strong> Joy in a gift of self to another.<br><br>
         <strong>What it is NOT:</strong> Repayment, nor giving out of perceived obligation.
       </div>
-      <div class="example"></div>
+      <div class="example">
+        <strong>Examples of Generosity:</strong><br>
+        <p>Mary, who couldn't afford a proper place to give birth to her son</p>
+        <p>St Nicholas, who gave gold to children</p>
+        <p>Fabricius, who twice refused great wealth because it would have stained his honor</p>
+      </div>
 
       <div class="oppTitle">
         <h2>Opposite of Generosity<br>(Greed)</h2>
@@ -192,7 +203,13 @@
         <strong>What it is:</strong> The ability to endure burdens, suffering, or aggression without complaint or seeking retaliation.<br><br>
         <strong>What it is NOT:</strong> Distracting yourself while you wait for something.
       </div>
-      <div class="example"></div>
+      <div class="example">
+        <strong>Examples of Patience:</strong><br>
+        <p><strong>Towards Family:</strong> The finding of Jesus in the temple. Mary spoke to Jesus without anger, even though she was greatly upset.</p>
+        <p><strong>Towards Friends:</strong> Pisistratus, a gentle and kind King, turns away the wrath of his wife with a soft answer. She was livid that a suiter for their daughter embraced her in public without their favor.
+          <br>He says "What shall we do to those that wish to harm us if we take vengeance upon those who love us?" </p>
+        <p><strong>Towards Enemies:</strong> The martyrdom of Saint Steven, who forgave his murderers as his life slipped away.</p>
+        </div>
 
       <div class="oppTitle">
         <h2>Opposite of Patience <br>(Anger)</h2>
@@ -229,7 +246,11 @@
         <strong>What it is:</strong> The ability to share in the joys and sorrows of others. <br><br>
         <strong>What it is NOT:</strong> Being a pushover.
       </div>
-      <div class="example"></div>
+      <div class="example">
+        <strong>Examples of Kindness:</strong><br>
+        <p>Mary, thinking only of the happiness of the newlyweds, told Jesus: "They have no wine"</p>
+        <p>The Samaritan, moved by the pain of the beaten man, ensures his care and recovery.</p>
+      </div>
 
       <div class="oppTitle">
         <h2>Opposite of Kindness <br>(Envy)</h2>
@@ -265,7 +286,12 @@
         <strong>What it is:</strong> A balance between the extremes of too little and too much. <br><br>
         <strong>What it is NOT:</strong> Total abstinence of food or drink.
       </div>
-      <div class="example"></div>
+      <div class="example">
+        <strong>Examples of Moderation:</strong><br>
+        <p>Mary at the wedding, preferring the guests' happiness to her own hunger & thirst</p>
+        <p>Daniel, who refused food and drink from the King.</p>
+        <p>John the Baptist, who ate only locusts and wild honey</p>
+      </div>
 
       <div class="oppTitle">
         <h2>Opposite of Moderation<br>(Gluttony)</h2>
@@ -317,7 +343,12 @@
         <strong>What it is:</strong> An ordered view of human sexuality, and the humanization of others. <br><br>
         <strong>What it is NOT:</strong> Asexuality, rejection of sexuality.
       </div>
-      <div class="example"></div>
+      <div class="example">
+        <strong>Examples of Chastity:</strong><br>
+        <p>Mary, who knew not a man</p>
+        <p>Diana, to preserve her virginity, lived in the woods as a huntress</p>
+        <p>Adam, who knew his wife.  To 'know' in this sense was to recognize and appreciate her completely: mind, soul, and body.</p>
+        </div>
 
       <div class="oppTitle">
         <h2>Opposite of Chastity <br>(Lust)</h2>

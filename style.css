@@ -69,7 +69,6 @@ p {
   text-indent: 30px;
   margin: 0;
   padding: .7em 0;
-  font-family: 'Open Sans', sans-serif;
   font-size: 18px;
 }
 
@@ -233,6 +232,23 @@ a {
 .example {
   grid-area: ex;
   border-radius: 10px;
+}
+
+.example p {
+border-radius: 10px;
+border-radius: 10px;
+padding: 15px 1em;
+text-align: left;
+}
+
+.example p:nth-child(odd) {
+  background: var(--color-light);
+  text-align: left;
+}
+
+.example p:nth-child(even) {
+  background: #EEE;
+  border: 2px solid #CCC;
 }
 
 .isisnt {
