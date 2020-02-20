@@ -24,7 +24,7 @@
   <?php include("header.html");?>
 
 
-  <div id="wrapper">
+  <div id="main">
     <div id="growMain">
       <div id="grow">
         <center>

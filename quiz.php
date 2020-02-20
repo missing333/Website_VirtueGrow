@@ -19,7 +19,6 @@
 
 
 <body class="gradient-pattern">
-  <div id="wrapper">
 
 
     <?php include("header.html");?>
@@ -62,7 +61,6 @@
 
 
     <?php include("footer.html");?>
-  </div>
   <!--wrapper-->
 </body>
 
