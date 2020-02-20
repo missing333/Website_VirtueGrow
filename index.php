@@ -54,7 +54,6 @@
         <author>— Rick Warren</author>
       </div>
       <div class="description shadowbox">
-        <h4>Seeds of Humility</h4>
         <p>
           Humility is the ability to recognize that while Truth is infallible, the human mind is not. It is the ability to accept criticism with a desire to improve, coupled with the ability to learn lessons from the most unlikely of teachers.
           </p><p>

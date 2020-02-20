@@ -253,7 +253,7 @@ text-align: left;
 
 .example p:nth-child(even) {
   background: #EEE;
-  border: 2px solid #CCC;
+  border: 2px solid #DDD;
 }
 
 .isisnt {
