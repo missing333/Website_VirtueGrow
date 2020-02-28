@@ -130,7 +130,7 @@
           Sloth is the abuse or negligence of the fruitfulness of work. Where Diligence multiplies, Sloth shrivels. Sloth seeks to avoid personal growth, often hiding in distractions and mindless entertainment. Sloth can even use the deceptive mask of long work hours, if it means that your soul is not being nourished and growing closer to God.
         </p>
       </div>
-      <div class=>
+      <div class="harmsYou greybox">
         <strong>Sloth harms you</strong> by making the chasm between an individual and God seem impassable. <br><br>
       </div>
       <div class="harmsOthers shadowbox">
