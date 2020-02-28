@@ -60,7 +60,7 @@
           It is the recognition that every single person on the planet has something that they are able to teach you, and likewise, YOU have something unique that you are able to offer to others.
         </p>
       </div>
-      <div class="isisnt shadowbox">
+      <div class="isisnt greybox">
         <strong>What it is:</strong> A recognition of objective Truth.<br><br>
         <strong>What it is NOT:</strong> Claiming that you are beneath others, or not worthy of something that you ARE worthy of. <br><br>
       </div>
@@ -83,7 +83,7 @@
           Pride says: "That person is a waste of space.", and "My way is the only way."
         </p>
       </div>
-      <div class="harmsYou"><strong>Pride harms you</strong> by creating a barrier to learning (and re-learning) life's lessons.
+      <div class="harmsYou greybox"><strong>Pride harms you</strong> by creating a barrier to learning (and re-learning) life's lessons.
       </div>
       <div class="harmsOthers shadowbox"><strong>Pride harms others</strong> by reducing them to utilitarian value, stripping them of their spiritual dignity.
       </div>
@@ -112,7 +112,7 @@
         should one be trusted in large matters if they can not be trusted in small matters?
       </p>
       </div>
-      <div class="isisnt shadowbox">
+      <div class="isisnt greybox">
         <strong>What it is:</strong> A willingness to act on a desire to learn and grow. <br><br>
         <strong>What it is NOT:</strong> Hard work for the sake of material gain.
       </div>
@@ -130,7 +130,7 @@
           Sloth is the abuse or negligence of the fruitfulness of work. Where Diligence multiplies, Sloth shrivels. Sloth seeks to avoid personal growth, often hiding in distractions and mindless entertainment. Sloth can even use the deceptive mask of long work hours, if it means that your soul is not being nourished and growing closer to God.
         </p>
       </div>
-      <div class="harmsYou">
+      <div class=>
         <strong>Sloth harms you</strong> by making the chasm between an individual and God seem impassable. <br><br>
       </div>
       <div class="harmsOthers shadowbox">
@@ -156,7 +156,7 @@
         of goodwill in humanity.
       </p>
       </div>
-      <div class="isisnt shadowbox">
+      <div class="isisnt greybox">
         <strong>What it is:</strong> Joy in a gift of self to another.<br><br>
         <strong>What it is NOT:</strong> Repayment, nor giving out of perceived obligation.
       </div>
@@ -175,7 +175,7 @@
           Greed is the selfish desire to contain and control the things of this world, especially those things that give power such as money or fame. Where Generosity seeks to spread and distribute good and goodwill, Greed seeks to take and contain
         those things. Greed is a black hole that can never be filled. </p>
       </div>
-      <div class="harmsYou">
+      <div class="harmsYou greybox">
         <strong>Greed harms you</strong> by creating an insatiable hunger for base things. This hunger ultimately consumes the one who tries to feed it, making them slaves to the things they try to possess.
       </div>
       <div class="harmsOthers shadowbox">
@@ -198,7 +198,7 @@
       <div class="description shadowbox">
         <p>Patience is the great bridge builder. While Anger destroys relationships with others, Patience restores them. Patience is the quiet strength that is able to withstand the pains of others, along with your own, for noble purpose.</p>
       </div>
-      <div class="isisnt shadowbox">
+      <div class="isisnt greybox">
         <strong>What it is:</strong> The ability to endure burdens, suffering, or aggression without complaint or seeking retaliation.<br><br>
         <strong>What it is NOT:</strong> Distracting yourself while you wait for something.
       </div>
@@ -219,7 +219,7 @@
           disordered.
         </p>
       </div>
-      <div class="harmsYou">
+      <div class="harmsYou greybox">
         <strong>Anger harms individuals</strong> by turning them into unjust judges and executors of punishment.
       </div>
       <div class="harmsOthers shadowbox">
@@ -241,7 +241,7 @@
       <div class="description shadowbox">
         <p>Kindness is the virtue of showing love and solidarity to others. It is the virtue of letting others know that they are not alone, that they are part of something greater than themselves, part of a friendship or of a community.</p>
       </div>
-      <div class="isisnt shadowbox">
+      <div class="isisnt greybox">
         <strong>What it is:</strong> The ability to share in the joys and sorrows of others. <br><br>
         <strong>What it is NOT:</strong> Being a pushover.
       </div>
@@ -258,7 +258,7 @@
         <p>Envy is the sin of finding joy in another's pain, and anger at someone else's joy or good fortune. Envy is comparing yourself, your life, your house, or any other attribute to others, and when finding yourself lacking, leads to unkind
         thoughts about them, or whether they 'deserve' those things.</p>
       </div>
-      <div class="harmsYou">
+      <div class="harmsYou greybox">
         <strong>Envy harms you</strong> by causing rifts in your life-giving friendships.
       </div>
       <div class="harmsOthers shadowbox">
@@ -281,7 +281,7 @@
       <div class="description shadowbox">
         <p>Most Sin is a disordered twist on a Virtue, taking it to an extreme of too little or too much. Moderation is the Virtue that strives towards healthy balance.</p>
       </div>
-      <div class="isisnt shadowbox">
+      <div class="isisnt greybox">
         <strong>What it is:</strong> A balance between the extremes of too little and too much. <br><br>
         <strong>What it is NOT:</strong> Total abstinence of food or drink.
       </div>
@@ -305,7 +305,7 @@
           <li>Ardenter - eating greedily (too eagerly)</li>
         </ul>
       </div>
-      <div class="harmsYou">
+      <div class="harmsYou greybox">
         <strong>Gluttony harms you</strong> by keeping you from self-mastery, by eroding your self control.
       </div>
       <div class="harmsOthers shadowbox">
@@ -338,7 +338,7 @@
         Chastity also teaches respect for the dignity of others. Every human being is created in the image and likeness of God, and out of respect for Him, we must see each and every person as they are: a body and soul combined. Each person is a unique and beautiful individual, with their own strengths and weaknesses, and Chastity helps us to realize that they were not put here for OUR benefit, but for God's.
       </p>
       </div>
-      <div class="isisnt shadowbox">
+      <div class="isisnt greybox">
         <strong>What it is:</strong> An ordered view of human sexuality, and the humanization of others. <br><br>
         <strong>What it is NOT:</strong> Asexuality, rejection of sexuality.
       </div>
@@ -357,7 +357,7 @@
           Lust is the abuse of human sexuality. Where Chastity is giving, Lust is taking. Lust seeks to gratify itself, instead of to please another.
         </p>
       </div>
-      <div class="harmsYou">
+      <div class="harmsYou greybox">
         <strong>Lust harms individuals</strong> by urging them to become slaves to the sexual appetites. It abuses the gift of sexuality by placing disordered emphasis on physical pleasure instead of on the complete gift of mind, soul, AND body to a single
         individual.
       </div>

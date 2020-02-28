@@ -82,7 +82,7 @@
               },
               {
                 virtue: "Humility",
-                text: "Ask someone for help.",
+                text: "Ask someone for help.  They might be able to!",
                 img: "Art/Icons/humBevel.png"
               },
               {
@@ -92,7 +92,7 @@
               },
               {
                 virtue: "Chastity",
-                text: "Ask someone about their favorite (food/hobby/vacation/etc.)",
+                text: "Groom yourself with greater care today.  Cleanliness of Body leads to cleanliness of Mind.",
                 img: "Art/Icons/chaBevel.png"
               },
               {

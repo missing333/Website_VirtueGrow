@@ -160,6 +160,15 @@ a {
   padding: 11px;
 }
 
+.greybox {
+  background: #EEE;
+  --border: 2px solid #DDD;
+  box-shadow: -5px 5px 6px rgba(0, 0, 0, 0.2);
+  border-radius: 15px;
+  margin: 11px;
+  padding: 11px;
+}
+
 .virtue-icon {
   max-width: 50px;
   max-height: 50px;
@@ -236,7 +245,8 @@ a {
 
 .example {
   grid-area: ex;
-  border-radius: 10px;
+  border-radius: 15px;
+  padding: 11px;
 }
 
 .example p {
@@ -249,17 +259,18 @@ text-align: left;
 .example p:nth-child(odd) {
   background: var(--color-light);
   text-align: left;
+  box-shadow: -5px 5px 6px rgba(0, 0, 0, 0.2);
 }
 
 .example p:nth-child(even) {
   background: #EEE;
-  border: 2px solid #DDD;
+  --border: 2px solid #DDD;
+  box-shadow: -5px 5px 6px rgba(0, 0, 0, 0.2);
 }
 
 .isisnt {
   grid-area: is;
   text-align: left;
-  background-color: var(--color-light);
 }
 
 .quote {
