@@ -222,8 +222,8 @@ a {
   grid-gap: 18px;
   grid-template-areas:
     "title"
-    "desc"
     "q"
+    "desc"
     "is"
     "ex"
     "oppTitle"
