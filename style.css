@@ -78,7 +78,9 @@ p {
 }
 
 a {
+  color: #4CAF50;
   text-decoration: none;
+  font-weight:bold;
 }
 
 .gradient-pattern {
@@ -225,11 +227,12 @@ a {
     "q"
     "desc"
     "is"
-    "ex"
+    "practice"
+    "v-ex"
     "oppTitle"
     "opp"
-    "harmsYou"
-    "harmsOthers"
+    "harms"
+    "s-ex"
     "wideImg"
 }
 
@@ -243,30 +246,43 @@ a {
   background-color: var(--color-light);
 }
 
-.example {
-  grid-area: ex;
+#VirtueExample {
+    grid-area: v-ex;
+}
+
+#SinExample {
+    grid-area: s-ex;
+}
+
+#Practice {
+    grid-area: practice;
+}
+
+.list {
   border-radius: 15px;
   padding: 11px;
 }
 
-.example p {
+.list p {
 border-radius: 10px;
 border-radius: 10px;
 padding: 15px 1em;
 text-align: left;
 }
 
-.example p:nth-child(odd) {
+.list p:nth-child(odd) {
   background: var(--color-light);
   text-align: left;
   box-shadow: -5px 5px 6px rgba(0, 0, 0, 0.2);
 }
 
-.example p:nth-child(even) {
+.list p:nth-child(even) {
   background: #EEE;
   --border: 2px solid #DDD;
   box-shadow: -5px 5px 6px rgba(0, 0, 0, 0.2);
 }
+
+
 
 .isisnt {
   grid-area: is;
@@ -328,14 +344,8 @@ author {
   background-color: var(--color-light);
 }
 
-.harmsYou {
-  grid-area: harmsYou;
-  padding: 11px;
-}
-
-.harmsOthers {
-  grid-area: harmsOthers;
-  background-color: var(--color-light);
+#harms {
+  grid-area: harms;
 }
 
 .wideImg {
@@ -360,15 +370,10 @@ author {
 }
 
 /* QUIZ SECTION */
-#quizMain {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
 
 #quiz {
   min-width: 350px;
-  margin: 5vh;
+  margin: 5vh auto;
 }
 
 /*  Footer  */
@@ -468,14 +473,20 @@ a.feedbackButton:hover {
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-areas:
       "title title title title"
-      ".  q    q    ."
-      " desc desc desc   ."
-      ".   .   is   is  "
-      ".    ex   ex  . "
+      ".         q        q      ."
+      "desc     desc      desc   ."
+      "desc     desc      desc   ."
+      ".        .         is     is"
+      "practice practice  is     is"
+      "practice practice  v-ex   v-ex "
+      "practice practice  v-ex   v-ex "
+      ".        .         v-ex   v-ex "
       "oppTitle oppTitle oppTitle oppTitle"
-      "opp  opp  .   ."
-      ".     .   harmsYou  harmsYou"
-      ".  harmsOthers  harmsOthers   .  "
+      "opp      opp       .         ."
+      "opp      opp       harms  harms"
+      "s-ex     s-ex      harms  harms"
+      "s-ex     s-ex      .         . "
+      "s-ex     s-ex      .         . "
       "wideImg wideImg wideImg wideImg"
   }
 }

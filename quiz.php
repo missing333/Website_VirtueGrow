@@ -24,7 +24,7 @@
     <?php include("header.html");?>
 
 
-    <div id="quizMain">
+    <div id="main">
       <div id="quiz">
         <div id="interact-59b312a756b6910012373c7d"></div>
         <script type="text/javascript">
