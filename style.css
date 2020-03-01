@@ -425,14 +425,13 @@ author {
 a.feedbackButton {
   display: block;
   text-align: center;
-  margin-top: 2%;
-  margin: auto;
+  margin: 2% auto;
   width: 175px;
   border: 2px solid white;
   border-radius: 25px;
   font-family: Arial;
   color: #FFFFFF;
-  font-size: 17px;
+  font-size: 14px;
   background: var(--color-accent);
   padding: 5px 10px 5px 10px;
   text-decoration: none;

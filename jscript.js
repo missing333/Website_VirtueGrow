@@ -5,6 +5,11 @@ function openVirtue(virtueName) {
     x[i].style.display = "none";
   }
   document.getElementById(virtueName).style.display = "grid";
+  var elem = $('#scrollHere');
+  if(elem) {
+    $('html').scrollTop(elem.offset().top);
+    $('html').scrollLeft(elem.offset().left);
+}
 }
 
 

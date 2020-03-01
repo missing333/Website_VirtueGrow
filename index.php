@@ -38,7 +38,9 @@
     </div>
 
 
+   <div id="scrollHere">
 
+   </div>
 
 
 
@@ -84,8 +86,8 @@
       </div>
       <div id="Practice" class="list">
         <strong>How to become more Humble:</strong><br>
-        <p>Recite the <a href="https://www.ewtn.com/catholicism/devotions/our-father-395">'Our Father'</a></p>
-        <p>Recite the <a href="https://www.ourcatholicprayers.com/litany-of-humility.html">'Litany of Humility'</a></p>
+        <p>Recite the <a href="https://www.ewtn.com/catholicism/devotions/our-father-395" target="_blank">'Our Father'</a></p>
+        <p>Recite the <a href="https://www.ourcatholicprayers.com/litany-of-humility.html" target="_blank">'Litany of Humility'</a></p>
         <p>Keep your promises.</p>
         <p>Refrain from amusing anecdotes from your personal life. Instead, ask others for theirs.</p>
         <p>Pause for self-reflection each evening, ask yourself what you could have done better that day.</p>
@@ -156,7 +158,7 @@
       </div>
       <div id="Practice" class="list">
         <strong>How to become more Kind:</strong><br>
-        <p>Recite the <a href="https://www.ourcatholicprayers.com/litany-of-the-saints.html">'Litany of the Saints'</a></p>
+        <p>Recite the <a href="https://www.ourcatholicprayers.com/litany-of-the-saints.html" target="_blank">'Litany of the Saints'</a></p>
         <p>Offer a smile to anyone and everyone.</p>
         <p>Phone a friend just to catch up.</p>
         <p>Refrain from complaints.  Instead, share something positive that happened.</p>
@@ -214,7 +216,7 @@
         </div>
         <div id="Practice" class="list">
           <strong>How to become more Patient:</strong><br>
-          <p>Recite the <a href="https://www.englishtexts.org/agnus-dei">'Agnus Dei(Lamb of God)'</a></p>
+          <p>Recite the <a href="https://www.englishtexts.org/agnus-dei" target="_blank">'Agnus Dei(Lamb of God)'</a></p>
           <p>Walk away from heated arguments instead of escalate them.</p>
           <p>Fasting.  Train yourself to endure smaller pains, so that larger ones are more manageable.</p>
         </div>
@@ -274,7 +276,7 @@
       </div>
       <div id="Practice" class="list">
         <strong>How to become more Diligent:</strong><br>
-        <p>Recite the <a href="https://www.loyolapress.com/our-catholic-faith/scripture-and-tradition/catholic-basics/catholic-beliefs-and-practices/the-beatitudes">'Beatitudes'</a></p>
+        <p>Recite the <a href="https://www.loyolapress.com/our-catholic-faith/scripture-and-tradition/catholic-basics/catholic-beliefs-and-practices/the-beatitudes" target="_blank">'Beatitudes'</a></p>
         <p>Make a budget for your time, just as you would for your finances.</p>
         <p>Read about the lives of the Saints.</p>
         <p>Pursue goodness in yourself and in others.  This is known as Zeal.</p>
@@ -339,7 +341,7 @@
       </div>
       <div id="Practice" class="list">
         <strong>How to become more Generous:</strong><br>
-        <p>Recite the <a href="https://hymnary.org/text/glory_to_god_in_the_highest_and_peace">'Glory to God in the Highest'</a> prayer.</p>
+        <p>Recite the <a href="https://hymnary.org/text/glory_to_god_in_the_highest_and_peace" target="_blank">'Glory to God in the Highest'</a> prayer.</p>
         <p><strong>Gift of Time:</strong> Volunteer</p>
         <p><strong>Gift of Talent:</strong> Donate your skills or services to someone in need.</p>
         <p><strong>Gift of Treasure:</strong> Donate any amount of money to someone who asks for it, without regard to how they <strong>may</strong> spend it.</p>
@@ -469,7 +471,7 @@
         </div>
         <div id="Practice" class="list">
           <strong>How to become more Chaste:</strong><br>
-          <p>Recite the <a href="http://www.preces-latinae.org/thesaurus/Hymni/SummaeDeus.html">'Summae Deus Clementiae'</a> prayer.</p>
+          <p>Recite the <a href="http://www.preces-latinae.org/thesaurus/Hymni/SummaeDeus.html" target="_blank">'Summae Deus Clementiae'</a> prayer.</p>
           <p>Fast.  Sexual appetite and bodily appetite are inextricably linked.  Reducing one will also reduce the other.</p>
           <p>Keep your appearance and body language clean.  This garners respect.</p>
           <p>Learn and avoid your triggers: for some it is certain food or candy, for some it is alcohol, for some it is staying up too late.</p>
