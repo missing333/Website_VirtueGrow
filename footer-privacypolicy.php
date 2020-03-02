@@ -76,7 +76,7 @@
 				<p>By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. This privacy policy was built <a href="https://privacypolicies.com/" target="_blank">with the https://PrivacyPolicies.com generator</a>.</p>
 
 				<h3>Contacting us</h3>
-				<p>If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please <a href="contact.php">contact us.</a></p>
+				<p>If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please <a href="footer-contact.php">contact us.</a></p>
 
 				<p>This document was last updated on January 09, 2018</p>
 			</div>

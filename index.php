@@ -55,7 +55,7 @@
           True humility is not thinking less of yourself; it is thinking of yourself less.</p>
         <author>— Rick Warren</author>
       </div>
-      <div class="description shadowbox">
+      <div class="description greenBG shadowbox">
         <p>
           Humility is the root of all Virtue, as it places prime importance upon others.  Where Sin is harming yourself or
           others, Virtue is the act of bettering yourself and others.  Humility is to focus on others, to help them
@@ -74,7 +74,7 @@
           Finally, the Humble will honor thier promises, no matter how big or how small, and no matter who to.
         </p>
       </div>
-      <div class="isisnt greybox">
+      <div class="isisnt greyBG shadowbox">
         <strong>What it is:</strong> Honesty in dealing with yourself and others. <br><br>
         <strong>What it is NOT:</strong> Claiming that you are beneath others, or not worthy of something that you ARE worthy of. <br><br>
       </div>
@@ -97,7 +97,7 @@
       <div class="oppTitle">
         <h2 style="text-align:center">Opposite of Humility <br>(Pride)</h2>
       </div>
-      <div class="oppositeVice shadowbox">
+      <div class="oppositeVice greenBG shadowbox">
         <p>
           Pride is the disorder of elevating the importance of Self over the importance of Truth.
           It no longer can recognize that other people have access to God's Truth, and, viewing them as
@@ -140,14 +140,14 @@
           Kindness begins with the understanding that we all struggle.</p>
         <author>— Charles Glassman</author>
       </div>
-      <div class="description shadowbox">
+      <div class="description greenBG shadowbox">
         <p>Kindness is the virtue of showing love and solidarity to others. It is the virtue of letting
           others know that they are not alone, that they are part of something greater than themselves,
           part of a friendship or of a community.</p>
         <p>Kindness is a cheerful demeanor and positive outlook, which inspires Kindness in others.
         It is charity, compassion, and friendship for its own sake.</p>
       </div>
-      <div class="isisnt greybox">
+      <div class="isisnt greyBG shadowbox">
         <strong>What it is:</strong> The ability to share in the joys and sorrows of others. <br><br>
         <strong>What it is NOT:</strong> Being a pushover.
       </div>
@@ -168,7 +168,7 @@
       <div class="oppTitle">
         <h2>Opposite of Kindness <br>(Envy)</h2>
       </div>
-      <div class="oppositeVice shadowbox">
+      <div class="oppositeVice greenBG shadowbox">
         <p>Envy is the sin of finding joy in another's pain, and anger at someone else's joy or good fortune. Envy is comparing yourself, your life, your house, or any other attribute to others, and when finding yourself lacking, leads to unkind
         thoughts about them, or whether they 'deserve' those things.</p>
       </div>
@@ -196,14 +196,14 @@
           Patience is not simply the ability to wait - it's how we behave while we're waiting.</p>
         <author>— Joyce Meyer</author>
       </div>
-      <div class="description shadowbox">
+      <div class="description greenBG shadowbox">
         <p>Patience is the great bridge builder. While Anger destroys relationships with others,
           Patience restores them. Patience is the quiet strength that is able to withstand the pains of others,
            along with your own, for noble purpose.</p>
         <p>Patience pursues harmony over antagonism, forbearing violence with the strength of self-control.
         It grants mercy and forgiveness for criminals and sinners, as well as friends and family.</p>
       </div>
-      <div class="isisnt greybox">
+      <div class="isisnt greyBG shadowbox">
         <strong>What it is:</strong> The ability to endure burdens, suffering, or aggression without complaint or seeking retaliation.<br><br>
         <strong>What it is NOT:</strong> Distracting yourself while you wait for something.
       </div>
@@ -224,7 +224,7 @@
       <div class="oppTitle">
         <h2>Opposite of Patience <br>(Anger)</h2>
       </div>
-      <div class="oppositeVice shadowbox">
+      <div class="oppositeVice greenBG shadowbox">
         <p>
           Anger is the sin of seeking justice in a disordered way. Anger wants to disproportionately harm others for even the slightest transgressions.
           Alternatively, Anger is willing to seek just punishment on someone who is innocent, which is also
@@ -256,7 +256,7 @@
           What we hope ever to do with ease, we must learn first to do with diligence.</p>
         <author>— Samuel Johnson</author>
       </div>
-      <div class="description shadowbox">
+      <div class="description greenBG shadowbox">
         <p>Diligence is a commitment to daily spiritual, personal improvement. Having Diligence means that even though you are fully aware that true perfection is unattainable, you forge ahead and do what you can anyways,
         because it is the right thing to do.
         </p>
@@ -265,7 +265,7 @@
         should one be trusted in large matters if they can not be trusted in small matters?
       </p>
       </div>
-      <div class="isisnt greybox">
+      <div class="isisnt greyBG shadowbox">
         <strong>What it is:</strong> A willingness to act on a desire to learn and grow. <br><br>
         <strong>What it is NOT:</strong> Hard work for the sake of material gain.
       </div>
@@ -286,7 +286,7 @@
       <div class="oppTitle">
         <h2>Opposite of Diligence <br>(Sloth)</h2>
       </div>
-      <div class="oppositeVice shadowbox">
+      <div class="oppositeVice greenBG shadowbox">
         <p>
           Sloth is the abuse or negligence of the fruitfulness of work. Where Diligence multiplies, Sloth shrivels. Sloth seeks to avoid personal growth, often hiding in distractions and mindless entertainment. Sloth can even use the deceptive mask of long work hours, if it means that your soul is not being nourished and growing closer to God.
         </p>
@@ -317,7 +317,7 @@
           We often say, ‘I would give, but only to the deserving.’ The trees in your orchard say not so, nor the flocks in your pasture. They give that they may live, for to withhold is to perish.</p>
         <author>— Kahlil Gibran</author>
       </div>
-      <div class="description shadowbox">
+      <div class="description greenBG shadowbox">
         <p>
           Generosity is both a natural confidence builder and a natural repellant of self-hatred.
           By focusing on what giving rather than receiving, we create a more outward
@@ -329,7 +329,7 @@
         Generosity can grow and spread like wildfire, lighting the flames of goodwill in humanity.
       </p>
       </div>
-      <div class="isisnt greybox">
+      <div class="isisnt greyBG shadowbox">
         <strong>What it is:</strong> Love of others originating from Will, not Emotion.<br><br>
         <strong>What it is NOT:</strong> Repayment, nor giving out of perceived obligation.
       </div>
@@ -351,7 +351,7 @@
       <div class="oppTitle">
         <h2>Opposite of Generosity<br>(Greed)</h2>
       </div>
-      <div class="oppositeVice shadowbox">
+      <div class="oppositeVice greenBG shadowbox">
         <p>
           Greed is the selfish desire to contain and control the things of this world, especially those things that give power such as money or fame. Where Generosity seeks to spread and distribute good and goodwill, Greed seeks to take and contain
         those things. Greed is a black hole that can never be filled. </p>
@@ -364,7 +364,7 @@
         <strong>Examples of Greed:</strong><br>
         <p>King Midas, who wished that whatever he touched would turn to gold.</p>
         <p>Sapphira & husband, who sold the apostles' property, returned only part of the sum to the community, keeping much for themselves.
-          When St Peter reprimanded them, they feel dead at his feet.</p>
+          When St Peter reprimanded them, they fell dead at his feet.</p>
         <p>Polymnestor, who killed his own son because he had acquired a great sum of wealth</p>
         <p>Crassus, who took almost every bribe he was offered, had his mouth filled with molten gold after he died.</p>
       </div>
@@ -386,12 +386,12 @@
           In moderating, not in satisfying desires, lies peace.</p>
         <author>— Reginald Heber</author>
       </div>
-      <div class="description shadowbox">
+      <div class="description greenBG shadowbox">
         <p>Most Sin is a disordered twist on a Virtue, taking it to an extreme of too little or too much.
           Moderation is the Virtue that strives towards healthy balance.</p>
 
       </div>
-      <div class="isisnt greybox">
+      <div class="isisnt greyBG shadowbox">
         <strong>What it is:</strong> A balance between the extremes of too little and too much. <br><br>
         <strong>What it is NOT:</strong> Total abstinence of food or drink.
       </div>
@@ -415,7 +415,7 @@
       <div class="oppTitle">
         <h2>Opposite of Moderation<br>(Gluttony)</h2>
       </div>
-      <div class="oppositeVice shadowbox">
+      <div class="oppositeVice greenBG shadowbox">
         Gluttony is primarily the abuse of food and drink. Overeating is just one way to abuse these. There are other ways to be Gluttonous as well:
         <ul class="contentUL">
           <li><strong>Laute</strong> - eating food that is too luxurious, exotic, or costly</li>
@@ -452,14 +452,14 @@
           When you resolve firmly to lead a clean life, chastity will not be a burden for you: it will be a triumphal crown.</p>
         <author>— Josemaria Escriva</author>
       </div>
-      <div class="description shadowbox">
+      <div class="description greenBG shadowbox">
         <p>Chastity is viewing human sexuality as ordered and good, as a gift given by God and thus worthy of being treated with dignity and respect. It is a great and wonderful gift that is to be used, but NOT abused. The pinnacle of human sexuality is
         the complete and total gift of one's self to another in the holy and unbreakable covenant of matrimony, which is heightened and amplified with sexual self-control that is gained through practising chastity on a daily basis prior to that
         marriage. </p>
       <p> The goal of Chastity is to overwhelm the person you have declared before God and before friends and family that you would love forever- your spouse, with the complete and total gift of yourself. Chastity teaches you to be the master of yourself, which is the only way that gift can truly and freely be given. </p>
       <p> Chastity also teaches respect for the dignity of others. Every human being is created in the image and likeness of God, and out of respect for Him, we must see each and every person as they are: a body and soul combined. Each person is a unique and beautiful individual, with their own strengths and weaknesses, and Chastity helps us to realize that they were not put here for OUR benefit, but for God's.   </p>
       </div>
-      <div class="isisnt greybox">
+      <div class="isisnt greyBG shadowbox">
         <strong>What it is:</strong> An ordered view of human sexuality, and the humanization of others. <br><br>
         <strong>What it is NOT:</strong> Asexuality, rejection of sexuality.
       </div>
@@ -481,7 +481,7 @@
       <div class="oppTitle">
         <h2>Opposite of Chastity <br>(Lust)</h2>
       </div>
-      <div class="oppositeVice shadowbox">
+      <div class="oppositeVice greenBG shadowbox">
         <p>
           Lust is the abuse of human sexuality. Where Chastity is giving, Lust is taking. Lust seeks to gratify itself, instead of to please another.
         </p>

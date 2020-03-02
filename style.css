@@ -78,7 +78,7 @@ p {
 }
 
 a {
-  color: #4CAF50;
+  color: var(--color-primary);
   text-decoration: none;
   font-weight:bold;
 }
@@ -143,6 +143,8 @@ a {
   background: white;
 }
 
+
+
 /*   VIRTUE SECTION     */
 #main {
   font-family: 'Open Sans', sans-serif;
@@ -162,13 +164,12 @@ a {
   padding: 11px;
 }
 
-.greybox {
+.greenBG {
+  background-color: var(--color-light);
+}
+
+.greyBG {
   background: #EEE;
-  --border: 2px solid #DDD;
-  box-shadow: -5px 5px 6px rgba(0, 0, 0, 0.2);
-  border-radius: 15px;
-  margin: 11px;
-  padding: 11px;
 }
 
 .virtue-icon {
@@ -185,7 +186,7 @@ a {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  justify-content: space-evenly;
+  justify-content: space-around;
   align-items: center;
   margin: 0;
   margin-left: -35px;
@@ -194,9 +195,9 @@ a {
 
 #virtueNav li {
   display: flex;
+  flex-flow: column wrap;
   align-items: center;
   list-style-type: none;
-  flex-flow: column wrap;
   padding: 3px;
   cursor: default;
   color: black;
@@ -243,7 +244,6 @@ a {
 .description {
   grid-area: desc;
   text-align: left;
-  background-color: var(--color-light);
 }
 
 #VirtueExample {
