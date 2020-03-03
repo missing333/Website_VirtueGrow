@@ -39,7 +39,7 @@
       <div id="grow">
         <center>
           <div id="challengeBox">
-            <h3>Grow in Virtue Today:</h3>
+            <h3>Grow in Virtue,  Every day.</h3>
           </div>
           <div id="challenge" class="shadowbox"></div>
         </center>
@@ -113,6 +113,41 @@
               {
                 virtue: "Patience",
                 text: "Take 3 deep breaths the next time you get angry/frustrated, before doing anything else. ",
+                img: "Art/Icons/patBevel.png"
+              },
+              {
+                virtue: "Kindness",
+                text: "Recite the 'Litany of the Saints'",
+                img: "Art/Icons/kinBevel.png"
+              },
+              {
+                virtue: "Generosity",
+                text: "Recite the 'Glory to God in the Highest' prayer.",
+                img: "Art/Icons/genBevel.png"
+              },
+              {
+                virtue: "Humility",
+                text: "Pause for self-reflection this evening, and ask yourself what you could have done better today.",
+                img: "Art/Icons/humBevel.png"
+              },
+              {
+                virtue: "Moderation",
+                text: "Leave 10% of your meal on the plate as a tithe.",
+                img: "Art/Icons/modBevel.png"
+              },
+              {
+                virtue: "Chastity",
+                text: "Recite the 'Summae Deus Clementiae' prayer.",
+                img: "Art/Icons/chaBevel.png"
+              },
+              {
+                virtue: "Diligence",
+                text: "Read about the lives of the Saints.",
+                img: "Art/Icons/dilBevel.png"
+              },
+              {
+                virtue: "Patience",
+                text: "Recite the 'Agnus Dei (Lamb of God)'.",
                 img: "Art/Icons/patBevel.png"
               }
             ];
