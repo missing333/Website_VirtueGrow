@@ -38,7 +38,7 @@
 
 				<div id="text">
 					<p><img src="Art\Images\familypic.jpg" alt="Family" style="width:auto;height:300px;margin:15px;float:right;margin-top:-50px;">
-							Hi, my name is Marc Missildine.  I am the father of 2 beautiful girls, and the husband to an amazing, supportive wife.
+							Hi, my name is Marc Missildine.  I am the father of 3 beautiful girls, and the husband to an amazing, supportive wife.
 							I created this website to share everything that I have learned about virtue, to challenge myself and others to become our ideal selves. </p>
 				</div>
 
