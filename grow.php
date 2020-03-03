@@ -117,7 +117,7 @@
               },
               {
                 virtue: "Kindness",
-                text: "Recite the 'Litany of the Saints'",
+                text: 'Recite the ' + '<a href="https://www.ourcatholicprayers.com/litany-of-the-saints.html" target="_blank">' + 'Litany of the Saints' + '</a>',
                 img: "Art/Icons/kinBevel.png"
               },
               {
@@ -137,7 +137,32 @@
               },
               {
                 virtue: "Chastity",
-                text: "Recite the 'Summae Deus Clementiae' prayer.",
+                text: 'Recite the <strong>Summae Deus Clementiae</strong>.' + '<br><div class="prayer">'+
+                'Great God of boundless mercy hear;' + '<br>' +
+                'Thou Ruler of this earthly sphere;' + '<br>' +
+                'in substance one, in Persons three,' + '<br>' +
+                'dread Trinity in Unity!' + '<br>' + '<br>' +
+
+                'Do Thou in love accept our lays' + '<br>' +
+                'of mingled penitence and praise;' + '<br>' +
+                'and set our hearts from error free,' + '<br>' +
+                'more fully to rejoice in Thee.' + '<br>' + '<br>' +
+
+                'Our reins and hearts in pity heal,' + '<br>' +
+                'and with Thy chastening fire anneal;' + '<br>' +
+                'gird Thou our loins, each passion quell,' + '<br>' +
+                'and every harmful lust expel.' + '<br>' + '<br>' +
+
+                'Now as our anthems, upward borne,' + '<br>' +
+                'awake the silence of the morn,' + '<br>' +
+                'enrich us with Thy gifts of grace,' + '<br>' +
+                'from heaven, Thy blissful dwelling place!' + '<br>' + '<br>' +
+
+                'Hear Thou our prayer, Almighty King;' + '<br>' +
+                'hear Thou our praises, while we sing,' + '<br>' +
+                'adoring with the heavenly host' + '<br>' +
+                'the Father, Son and Holy Ghost.' +
+                '</div>',
                 img: "Art/Icons/chaBevel.png"
               },
               {
@@ -147,7 +172,17 @@
               },
               {
                 virtue: "Patience",
-                text: "Recite the 'Agnus Dei (Lamb of God)'.",
+                text: 'Recite the <strong>Agnus Dei</strong>.' + '<br><div class="prayer">'+
+                'Lamb of God, ' + '<br>' +
+                'you take away the sin of the world,' + '<br>' +
+                'have mercy on us.' + '<br>' + '<br>' +
+                'Lamb of God, ' + '<br>' +
+                'you take away the sin of the world,' + '<br>' +
+                'have mercy on us.' + '<br>' + '<br>' +
+                'Lamb of God, ' + '<br>' +
+                'you take away the sin of the world,' + '<br>' +
+                'grant us peace.' +
+                '</div>',
                 img: "Art/Icons/patBevel.png"
               }
             ];

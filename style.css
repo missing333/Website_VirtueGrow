@@ -77,6 +77,11 @@ p {
   font-size: 18px;
 }
 
+.prayer {
+  text-align: left !important;
+  padding: 10px;
+}
+
 a {
   color: var(--color-primary);
   text-decoration: none;
@@ -367,7 +372,7 @@ author {
 
 #challenge {
   background: white;
-  max-width: 300px;
+  max-width: 350px;
 }
 
 /* QUIZ SECTION */
