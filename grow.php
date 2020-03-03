@@ -122,7 +122,28 @@
               },
               {
                 virtue: "Generosity",
-                text: "Recite the 'Glory to God in the Highest' prayer.",
+                text: 'Recite the <strong>Glory to God in the Highest</strong>.' + '<br><div class="prayer">'+
+                'Glory to God in the highest,' + '<br>' +
+                'and on earth peace to people of good will.' + '<br>' + '<br>' +
+                'We praise you, we bless you,' + '<br>' +
+                'we adore you, we glorify you,' + '<br>' +
+                'we give you thanks for your great glory.' + '<br>' + '<br>' +
+                'Lord God, heavenly King, O God, almighty Father.' + '<br>' +
+                'Lord Jesus Christ, Only Begotten Son,' + '<br>' +
+                'Lord God, Lamb of God, Son of the Father,' + '<br>' + '<br>' +
+                'you take away the sins of the world,' + '<br>' +
+                'have mercy on us;' + '<br>' +
+                'you take away the sins of the world,' + '<br>' +
+                'receive our prayer;' + '<br>' +
+                'you are seated at the right hand of the Father,' + '<br>' +
+                'have mercy on us.' + '<br>' + '<br>' +
+                'For you alone are the Holy One,' + '<br>' +
+                'you alone are the Lord,' + '<br>' +
+                'you alone are the Most High, Jesus Christ,' + '<br>' + '<br>' +
+                'with the Holy Spirit,' + '<br>' +
+                'in the glory of God the Father.' + '<br>' +
+                'Amen.' +
+                '</div>',
                 img: "Art/Icons/genBevel.png"
               },
               {
