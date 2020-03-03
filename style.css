@@ -153,8 +153,9 @@ a {
 
 #tabs {
   background: #FFFFFF;
-  margin: 5vh 10vh 5vh 10vh;
+  margin: 5vh auto;
   justify-content: center;
+  max-width: 700px;
 }
 
 .shadowbox {
@@ -374,6 +375,7 @@ author {
 #quiz {
   min-width: 350px;
   margin: 5vh auto;
+  max-width: 800px;
 }
 
 /*  Footer  */

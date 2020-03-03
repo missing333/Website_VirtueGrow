@@ -119,8 +119,8 @@
             var challenge = challenges[Math.floor(Math.random() * challenges.length)];
             document.getElementById("challenge").innerHTML =
               '<h2>' + challenge.virtue + '</h2>' +
-              '<img class="virtue-icon" src="' + challenge.img + '">' +
-              '<p>' + challenge.text + '</p>';
+              '<img class="virtue-icon" style="margin:10px" src=" ' + challenge.img + '">' +
+              '<p style="text-indent:0px">' + challenge.text + '</p>';
           })();
         </script>
       </div>
