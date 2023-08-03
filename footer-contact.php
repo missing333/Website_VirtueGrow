@@ -28,7 +28,7 @@
 
 
 
-<body class="gradient-pattern">
+<body>
 	<div id="wrapper">
 		<?php include("header.html");?>
 

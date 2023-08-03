@@ -28,7 +28,7 @@
 
 
 
-<body class="gradient-pattern">
+<body class="mainBG">
 
 
     <?php include("header.html");?>
