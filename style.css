@@ -174,8 +174,12 @@ a {
   background-color: var(--color-light);
 }
 
-.greyBG {
-  background: #EEE;
+.mainBG {
+  background: rgb(212, 212, 205);
+}
+
+.whiteBG {
+  background: #FFF;
 }
 
 .virtue-icon {
@@ -283,14 +287,15 @@ text-align: left;
 }
 
 .list p:nth-child(even) {
-  background: #EEE;
-  --border: 2px solid #DDD;
+  background-color: #FFF;
+  text-align: left;
   box-shadow: -5px 5px 6px rgba(0, 0, 0, 0.2);
 }
 
 
 
 .isisnt {
+  background-color: #FFF;
   grid-area: is;
   text-align: left;
 }

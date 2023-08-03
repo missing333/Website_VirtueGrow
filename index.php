@@ -27,7 +27,7 @@
 </script>
 </head>
 
-<body class="gradient-pattern">
+<body class="mainBG">
 
   <?php include("header.html");?>
 
@@ -84,7 +84,7 @@
           Finally, the Humble will honor thier promises, no matter how big or how small, and no matter who to.
         </p>
       </div>
-      <div class="isisnt greyBG shadowbox">
+      <div class="isisnt shadowbox">
         <strong>What it is:</strong> Honesty in dealing with yourself and others. <br><br>
         <strong>What it is NOT:</strong> Claiming that you are beneath others, or not worthy of something that you ARE worthy of. <br><br>
       </div>
@@ -157,7 +157,7 @@
         <p>Kindness is a cheerful demeanor and positive outlook, which inspires Kindness in others.
         It is charity, compassion, and friendship for its own sake.</p>
       </div>
-      <div class="isisnt greyBG shadowbox">
+      <div class="isisnt whiteBG shadowbox">
         <strong>What it is:</strong> The ability to share in the joys and sorrows of others. <br><br>
         <strong>What it is NOT:</strong> Being a pushover.
       </div>
@@ -213,7 +213,7 @@
         <p>Patience pursues harmony over antagonism, forbearing violence with the strength of self-control.
         It grants mercy and forgiveness for criminals and sinners, as well as friends and family.</p>
       </div>
-      <div class="isisnt greyBG shadowbox">
+      <div class="isisnt whiteBG shadowbox">
         <strong>What it is:</strong> The ability to endure burdens, suffering, or aggression without complaint or seeking retaliation.<br><br>
         <strong>What it is NOT:</strong> Distracting yourself while you wait for something.
       </div>
@@ -275,7 +275,7 @@
         should one be trusted in large matters if they can not be trusted in small matters?
       </p>
       </div>
-      <div class="isisnt greyBG shadowbox">
+      <div class="isisnt whiteBG shadowbox">
         <strong>What it is:</strong> A willingness to act on a desire to learn and grow. <br><br>
         <strong>What it is NOT:</strong> Hard work for the sake of material gain.
       </div>
@@ -339,7 +339,7 @@
         Generosity can grow and spread like wildfire, lighting the flames of goodwill in humanity.
       </p>
       </div>
-      <div class="isisnt greyBG shadowbox">
+      <div class="isisnt whiteBG shadowbox">
         <strong>What it is:</strong> Love of others originating from Will, not Emotion.<br><br>
         <strong>What it is NOT:</strong> Repayment, nor giving out of perceived obligation.
       </div>
@@ -401,7 +401,7 @@
           Moderation is the Virtue that strives towards healthy balance.</p>
 
       </div>
-      <div class="isisnt greyBG shadowbox">
+      <div class="isisnt whiteBG shadowbox">
         <strong>What it is:</strong> A balance between the extremes of too little and too much. <br><br>
         <strong>What it is NOT:</strong> Total abstinence of food or drink.
       </div>
@@ -469,7 +469,7 @@
       <p> The goal of Chastity is to overwhelm the person you have declared before God and before friends and family that you would love forever- your spouse, with the complete and total gift of yourself. Chastity teaches you to be the master of yourself, which is the only way that gift can truly and freely be given. </p>
       <p> Chastity also teaches respect for the dignity of others. Every human being is created in the image and likeness of God, and out of respect for Him, we must see each and every person as they are: a body and soul combined. Each person is a unique and beautiful individual, with their own strengths and weaknesses, and Chastity helps us to realize that they were not put here for OUR benefit, but for God's.   </p>
       </div>
-      <div class="isisnt greyBG shadowbox">
+      <div class="isisnt whiteBG shadowbox">
         <strong>What it is:</strong> An ordered view of human sexuality, and the humanization of others. <br><br>
         <strong>What it is NOT:</strong> Asexuality, rejection of sexuality.
       </div>
