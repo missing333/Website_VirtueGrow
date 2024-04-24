@@ -483,7 +483,7 @@ a.feedbackButton:hover {
   .virtueContent {
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-areas:
-      "title title title title"
+      "title    title    title title"
       ".         q        q      ."
       "desc     desc      desc   ."
       "desc     desc      desc   ."
