@@ -168,7 +168,7 @@ a {
 }
 
 .mainBG {
-  background: var(--color-primary);
+  background: #CCC;
 }
 
 .whiteBG {
