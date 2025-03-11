@@ -1,3 +1,7 @@
+
+
+
+
 function openVirtue(virtueName) {
   var i;
   var x = document.getElementsByClassName("virtueContent");
